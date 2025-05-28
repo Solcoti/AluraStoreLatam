@@ -76,5 +76,5 @@ Basado en los datos analizados, **Tienda 4** muestra el desempeño económico m�
 ## 📌 Autor
 
 Desarrollado como parte del Challenge de Ciencia de Datos - Alura Latam  
-👩‍💻 [Tu nombre aquí]  
+👩‍💻 Soledad Cabrera
 📅 Año: 2025
